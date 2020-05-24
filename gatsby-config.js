@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Sky Lite`,
+    title: `もりまりカンパニーのはじめてぶろぐ〜`,
     siteUrl: `https://yoursite.com`,
-    description: `A lightweight GatsbyJS starter base with Material-UI and MDX Markdown support.`,
+    description: `世の中の楽しいことまとめました！`,
     components: {
       appbar: {
         position: "sticky",
